@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-d9fwtra2#q#*=g&msix&u3hdi@if9u*b_t-b=#=880r!i)-7^&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bloghopper.heroku.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition

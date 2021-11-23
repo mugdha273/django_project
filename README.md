@@ -1,7 +1,10 @@
 
 
 Demo Video of webApp
-https://user-images.githubusercontent.com/85048574/143029037-2d4a9c3a-36d2-4be1-8334-a66cf4a859f1.mp4
+
+
+https://user-images.githubusercontent.com/85048574/143029220-1b63604c-7c6b-47e1-9496-fb183faf94f5.mp4
+
 
 
 # django_project
